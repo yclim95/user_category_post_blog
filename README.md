@@ -12,13 +12,13 @@ Simple User's blog posts with categories :
 
 	2.1) Post (database)
 	2.2) Category (database)
-	2.3) User (Implemented [active_admin](https://github.com/activeadmin/activeadmin))
+	2.3) User Implemented [active_admin](https://github.com/activeadmin/activeadmin)
 
 3) Apply Gem 
 
 	3.1) ActiveAdmin 
 	3.2) Devise
-	3.3) protected_attributes
+	3.3) protected_attribut
 
 
 
