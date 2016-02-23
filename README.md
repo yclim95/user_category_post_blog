@@ -26,5 +26,12 @@ Simple User's blog posts with categories :
 ## Gems Links 
 ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
+---
+
+## Usage
+
+1) Command 
+
+	1.1) rails g active_admin:resource <Model>
 
 Feel free to review the <tt>[code here](https://github.com/yclim95/user_category_post_blog)</tt> 
