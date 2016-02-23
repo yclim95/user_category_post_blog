@@ -1,8 +1,13 @@
 <h1>Category : <%= @category.name %></h1> 
-<% @posts.each do|post| %>
-	<h3><%= link_to post.title, post , :class => "link"%></h3>
-	<p><%= post.body %></p>
-	<hr>
+
+<% if @posts.empty? %>
+ <p>No records for Posts</p>
+<% else %>
+	<% @posts.each do|post| %>
+		<h3><%= link_to post.title, post , :class => "link"%></h3>
+		<p><%= post.body %></p>
+		<hr>
+	<% end %>
 <% end %>
 
 <p><%= link_to "Back to Categories", categories_path , :class => "link"%></p>
