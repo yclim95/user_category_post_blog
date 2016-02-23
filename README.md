@@ -32,6 +32,7 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
 1) Command 
 
-	1.1) rails g active_admin:resource <Model>
+	1.1) To include inside the activeAdmin 
+		1.1.1) rails g active_admin:resource <Model>
 
 Feel free to review the <tt>[code here](https://github.com/yclim95/user_category_post_blog)</tt> 
