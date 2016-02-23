@@ -28,7 +28,7 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
 ## <a name="resources"></a> 3.0 Resources 
 [ActiveAdmin](http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out) 
-
+[ActiveAdmin-Resources](https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md)
 ---
 
 ## 4.0 Usages
