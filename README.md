@@ -26,7 +26,7 @@
 ## 2.0 Gems Links 
 ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
-## 3.0 Resources 
+## <a name="resources"></a> 3.0 Resources 
 [ActiveAdmin](http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out) 
 
 ---
@@ -41,8 +41,9 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 2) Customize the dashboards
 
 	2.1) New Version > 6.0  
-	ActiveAdmin.register_page "Dashboard" do
-	end
-		2.2) Refer to Resources
+	
+		2.1.1) Refer to [Resources](#resources) 
+		2.1.2) ActiveAdmin.register_page "Dashboard" do
+			   end
 
 Feel free to review the <tt>[code here](https://github.com/yclim95/user_category_post_blog)</tt> 
