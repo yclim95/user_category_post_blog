@@ -1,4 +1,4 @@
-== README
+# README
 
 Simple User's blog posts with categories : 
 
