@@ -24,11 +24,14 @@
 ---
 
 ## 2.0 Gems Links 
+
 ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
-## 3.0 Resources 
+## <a name="resources"></a> 3.0 Resources 
+
 1) [ActiveAdmin](http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out) 
 2) [ActiveAdmin-Resources](https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md)
+
 ---
 
 ## 4.0 Usages
