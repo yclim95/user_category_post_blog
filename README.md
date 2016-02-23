@@ -1,6 +1,6 @@
 # README
 
-Simple User's blog posts with categories : 
+## 1.0 Simple User's blog posts with categories : 
 
 1) Languages included:
 
@@ -23,12 +23,15 @@ Simple User's blog posts with categories :
 
 ---
 
-## Gems Links 
+## 2.0 Gems Links 
 ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
+
+## 3.0 Resources 
+[ActiveAdmin](http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out) 
 
 ---
 
-## Usage
+## 4.0 Usages
 
 1) Command 
 
@@ -37,8 +40,9 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 
 2) Customize the dashboards
 
-	2.1) New Version > 6.0  http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out
+	2.1) New Version > 6.0  
 	ActiveAdmin.register_page "Dashboard" do
 	end
+		2.2) Refer to Resources
 
 Feel free to review the <tt>[code here](https://github.com/yclim95/user_category_post_blog)</tt> 
