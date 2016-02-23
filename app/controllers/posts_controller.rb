@@ -1,4 +1,4 @@
-class PostsController < ApplicationController
+  class PostsController < ApplicationController
   def index
     @posts = Post.all
   end
@@ -28,7 +28,7 @@ class PostsController < ApplicationController
 
   def update
     @post = Post.find(params[:id])
-    if @post.update_attributes(post_params)
+    if @post.update_attributes(post_params) #Update the updated_at & created_at
       redirect_to post_path, :notice => "Your post have been updated!"
     else
       render "edit", :error => "Invalid Input, Please try again!"
