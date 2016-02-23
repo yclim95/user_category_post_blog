@@ -38,7 +38,7 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 2) Customize the dashboards
 
 	2.1) New Version > 6.0 
-	[http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out]
+[http://blog.gemnasium.com/post/60090180534/activeadmin-060-is-out]
 	ActiveAdmin.register_page "Dashboard" do
 	end
 
