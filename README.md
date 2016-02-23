@@ -38,6 +38,9 @@ ActiveAdmin [active_admin](https://github.com/activeadmin/activeadmin)
 	1.1) To include inside the activeAdmin 
 		1.1.1) rails g active_admin:resource <Model>
 
+	1.2) Read seeds.rb 
+		1.2.1) bundle exec rake db:seed
+
 2) Customize the dashboards (Refer to [Resources](#resources))
 
 	2.1) New Version > 6.0  
