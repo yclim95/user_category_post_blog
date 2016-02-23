@@ -5,6 +5,7 @@ Simple User's blog posts with categories :
 1) Languages included:
 
 	1.1) Ruby 
+	1.2) CSS
 
 
 2) Apply ActiveRecord and Postgresql 

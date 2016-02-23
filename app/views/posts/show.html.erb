@@ -1,6 +1,8 @@
-<p><%= link_to "Edit Post", edit_post_path %></p>
+<p><%= link_to "Edit Post", edit_post_path , :class => "link"%></p>
 <h1><%= @post.title %></h1>
 <small><%= @post.created_at.strftime("%b, %d %Y") %></small>
 <p><%= @post.body %></p>
 
-<p><%= link_to "Back", posts_path %> | <%= link_to "Delete post", @post,  :method => :delete , :data => {:confirm => "Are you sure you want to delete this post?"} %></p> 
+<p>Category : <%= link_to @post.category.name, category_path(:id => @post.category.id) , :class => "link"%></p>
+
+<p><%= link_to "Back", posts_path, :class => "link" %> | <%= link_to "Delete post", @post,  :method => :delete , :data => {:confirm => "Are you sure you want to delete this post?"} , :class => "link"%></p> 
