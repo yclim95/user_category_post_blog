@@ -14,4 +14,4 @@ Simple User's blog posts with categories :
 
 
 
-Feel free to review the <tt>code here[https://github.com/yclim95/user_category_post_blog]</tt> 
+Feel free to review the <tt>[code here][https://github.com/yclim95/user_category_post_blog]</tt> 
