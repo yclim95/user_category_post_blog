@@ -5,7 +5,8 @@
 1) Languages included:
 
 	1.1) Ruby 
-	1.2) CSS
+	1.2) HTML (.erb)
+	1.3) CSS
 
 
 2) Apply ActiveRecord and Postgresql 
