@@ -32,6 +32,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Breakpoint 
+gem "breakpoint"
+
 # Protected_attributes
 gem 'protected_attributes'
 
