@@ -4,19 +4,16 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
-//Libs
-@import '../libs/_vars';
-@import '../libs/_functions';
-@import '../libs/_mixins';
-@import '../libs/_skel';
 
+@import '../libs/functions';
+@import '../libs/vars';
 /* Intro */
 
 	#intro {
 		.logo {
 			border-bottom: 0;
 			display: inline-block;
-			margin: 0 0 (_size(element-margin)* 0.5) 0;
+			margin: 0 0 (_size(element-margin)*0.5) 0;
 			overflow: hidden;
 			position: relative;
 			width: 4em;
